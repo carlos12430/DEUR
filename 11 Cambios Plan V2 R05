@@ -2,3 +2,14 @@ Introduccion:
 
 Reporte de cambios de plan periodo mes acutal VS mes anterior Renta origen de plan, Renta rango destino.
 
+Informacion de cargas necesarias:
+
+Cargas dependencia:
+
+Tabla de informacion
+proc_sisinf.PRC_CAMBIOS_PLAN_POSPAGO
+
+
+PROCEDIMIENTO:
+SP_CAMBIOS_PLAN_POSPAGO
+
