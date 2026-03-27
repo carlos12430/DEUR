@@ -5,11 +5,12 @@ Reporte de cambios de plan periodo mes acutal VS mes anterior Renta origen de pl
 Informacion de cargas necesarias:
 
 Cargas dependencia:
-
-Tabla de informacion
-proc_sisinf.PRC_CAMBIOS_PLAN_POSPAGO
-
+251-CTRL_SISINF	DS_ACTIVOS_M2K
+279-CTRL_SISINF	DS_CAMBIOS_PLAN_BES
 
 PROCEDIMIENTO:
 SP_CAMBIOS_PLAN_POSPAGO
+
+Tabla de informacion concentrado
+proc_sisinf.PRC_CAMBIOS_PLAN_POSPAGO
 
